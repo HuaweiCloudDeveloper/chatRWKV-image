@@ -14,4 +14,4 @@
 
 - 华为云云商店：[RWKV 使用指南](./docs/usage.md)
 
-更多问题可通过 [**issue**](https://github.com/HuaweiCloudDeveloper/Prometheus-image/issues) 或 **华为云云商店指定商品的服务支持** 与我们取得联系。
+更多问题可通过 [**issue**](https://github.com/HuaweiCloudDeveloper/chatRWKV-image/issues) 或 **华为云云商店指定商品的服务支持** 与我们取得联系。
