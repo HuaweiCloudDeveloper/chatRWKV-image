@@ -36,7 +36,7 @@ The open-source image product provided by this project, [**`RWKV Large Language 
 
 | Image Specification | Feature Description | Remarks |
 | --- | --- | --- |
-| [RWKV-4-Pile-1B5](https://github.com/HuaweiCloudDeveloper/chatRWKV-image/tree/RWKV-4-Pile-1B5?tab=readme-ov-file) | Installed and deployed based on Kunpeng servers + Huawei Cloud EulerOS 2.0 64-bit |  |
+| [RWKV-4-Pile-1B5-kunpeng-HCE](https://github.com/HuaweiCloudDeveloper/chatRWKV-image/tree/RWKV-4-Pile-1B5-kunpeng) | Installed and deployed based on Kunpeng servers + Huawei Cloud EulerOS 2.0 64-bit |  |
 
 ## Getting Help
 - For more questions, you can contact us through [issues](https://github.com/HuaweiCloudDeveloper/chatRWKV-image/issues) or the service support of the specified product in the Huawei Cloud Marketplace.
