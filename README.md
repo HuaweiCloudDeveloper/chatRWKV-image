@@ -1,9 +1,9 @@
-# RWKV-4-Pile-1B5
+# RWKV-4-Pile-1B5-kunpeng
 
 ## 规格说明
 
-- 镜像商品：[RWKV-大语言模型]()
-- 镜像规格：RWKV-4-Pile-1B5
+- 镜像商品：[RWKV-大语言模型](https://marketplace.huaweicloud.com/contents/99586bca-3cb8-43c3-b086-ef355db52e67#productid=OFFI1121280235914113024)
+- 镜像规格：RWKV-4-Pile-1B5-kunpeng
 - 预置环境：RWKV-4-Pile-1B5-EngChn-test4-20230115.pth模型文件
 - 适配项：[ECS](https://support.huaweicloud.com/ecs/index.html)
 - CPU架构：ARM
