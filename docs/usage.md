@@ -2,7 +2,7 @@
 
 # 一、商品链接
 
-[RWKV-大语言模型](https://marketplace.huaweicloud.com/hidden/contents/99586bca-3cb8-43c3-b086-ef355db52e67?ticket=ST-882175-yV6NxeggGxKKfrq9N4pmqDbP-sso#productid=OFFI1121280243411267584)
+[RWKV-大语言模型](https://marketplace.huaweicloud.com/contents/99586bca-3cb8-43c3-b086-ef355db52e67?ticket=ST-882175-yV6NxeggGxKKfrq9N4pmqDbP-sso#productid=OFFI1121280243411267584)
 
 # 二、商品说明
 
