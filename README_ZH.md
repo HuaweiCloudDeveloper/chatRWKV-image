@@ -22,7 +22,7 @@
 3. 推理速度比Flash Attention优化后的Transformer快40%，显存占用减少40%，能耗仅为同规模Transformer模型（如LLaMA）的一半。
 4. 支持‌超长上下文处理‌（如20K tokens以上），且在多轮对话中保持状态连贯性。
 
-本项目提供的开源镜像商品 [**`RWKV大语言模型`**](https://marketplace.huaweicloud.com/hidden/contents/99586bca-3cb8-43c3-b086-ef355db52e67#productid=OFFI1121280235914113024) 已预先安装RWKV-4-Pile-1B5-EngChn-test4-20230115.pth模型及其相关运行环境，并提供部署模板。快来参照使用指南，轻松开启“开箱即用”的高效体验吧。
+本项目提供的开源镜像商品 [**`RWKV大语言模型`**](https://marketplace.huaweicloud.com/contents/99586bca-3cb8-43c3-b086-ef355db52e67#productid=OFFI1121280235914113024) 已预先安装RWKV-4-Pile-1B5-EngChn-test4-20230115.pth模型及其相关运行环境，并提供部署模板。快来参照使用指南，轻松开启“开箱即用”的高效体验吧。
 
 
 
@@ -36,9 +36,9 @@
 
 ## 镜像说明
 
-| 镜像规格 | 特性说明 | 备注 |
-| --- | --- | --- |
-| [RWKV-4-Pile-1B5](https://github.com/HuaweiCloudDeveloper/chatRWKV-image/tree/RWKV-4-Pile-1B5?tab=readme-ov-file) | 基于鲲鹏服务器 + Huawei Cloud EulerOS 2.0 64bit 安装部署 |  |
+| 镜像规格                                                                                                                          | 特性说明 | 备注 |
+|-------------------------------------------------------------------------------------------------------------------------------| --- | --- |
+| [RWKV-4-Pile-1B5-kunpeng-HCE](https://github.com/HuaweiCloudDeveloper/chatRWKV-image/tree/RWKV-4-Pile-1B5-kunpeng) | 基于鲲鹏服务器 + Huawei Cloud EulerOS 2.0 64bit 安装部署 |  |
 
 ## 获取帮助
 - 更多问题可通过 [issue](https://github.com/HuaweiCloudDeveloper/chatRWKV-image/issues) 或 华为云云商店指定商品的服务支持 与我们取得联系
